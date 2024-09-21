@@ -248,9 +248,9 @@
 
 /*** Facts ***/
 .fact {
-    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(https://img.freepik.com/premium-photo/hand-puts-wooden-cube-with-letter-i-from-word-insurance-word-is-written-wooden-cubes-standing-yellow-surface-table-can-be-used-business-education-concept_384017-3756.jpg?w=1060) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url(../images/bg.jpg) center center no-repeat;
     background-size: cover;
-	    background-position: bottom;
+	    background-position: center;
 }
 
 
