@@ -10,3 +10,28 @@ img.img-fluid {
 .serviceimg {
     height: 272px;
 }
+.welcomediv {
+    background: url(https://scontent.fjsr17-1.fna.fbcdn.net/v/t1.15752-9/456698975_1038145994713021_1173734481040180344_n.png?stp=dst-png_s2048x2048&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=rk_PysucgQYQ7kNvgFH_gYa&_nc_ht=scontent.fjsr17-1.fna&oh=03_Q7cD1QEaa7pYISrtv68eQaDn_J5pcYvP5oz0L5x_uoLNNNsHgA&oe=67162DED);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top right;
+
+	margin:0;
+}
+
+h1.wellcomeh {
+    text-align: center;
+    padding-bottom: 50px;
+    text-transform: uppercase;
+}
+h4.wellcomeh2 {
+    padding: 0 101px;
+    text-align: center;
+}
+.opasity {
+    opasity: 0.5;
+    padding: 50px;
+    background: #ffffffd9;
+
+}
+}
